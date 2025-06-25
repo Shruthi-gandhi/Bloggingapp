@@ -1,4 +1,5 @@
-BLOGGING APP
+BLOGGING APP🧑‍💻🤖
+
 ---
   This project is a feature-rich blogging web application developed to streamline the process
  of content CREATION, EDITING,UPLOAD,DELETE and MANAGEMENT. It is tailored for individual bloggers, writers,
