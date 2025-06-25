@@ -1,5 +1,6 @@
 BLOGGING APP
-      This project is a feature-rich blogging web application developed to streamline the process
+---
+  This project is a feature-rich blogging web application developed to streamline the process
  of content CREATION, EDITING,UPLOAD,DELETE and MANAGEMENT. It is tailored for individual bloggers, writers,
  or developers looking for a minimal yet powerful platform to manage their posts. Designed
  with scalability and usability in mind, the application leverages the latest in web
